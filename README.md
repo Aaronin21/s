@@ -14,7 +14,7 @@ To retrieve lyrics using the alternative method, use the `/getLyricsMusix.php` e
 Example:
 
 ```
-https://paxsenixofc.my.id/server/getLyricsMusix.php?t=Hope&a=XXXTENTACION&d=1:50&type=alternative
+https://biinou.serv00.net/server/getLyricsMusix.php?t=Hope&a=XXXTENTACION&d=1:50&type=alternative
 ```
 
 #### Using Default Method
@@ -26,7 +26,7 @@ To retrieve lyrics using the default method, use the `/getLyricsMusix.php` endpo
 Example:
 
 ```
-https://paxsenixofc.my.id/server/getLyricsMusix.php?q=Hope%20XXXTentacion&type=default
+https://biinou.serv00.net/server/getLyricsMusix.php?q=Hope%20XXXTentacion&type=default
 ```
 
 ---
